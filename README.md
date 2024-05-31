@@ -1,0 +1,1 @@
+# -Machine-Tool-Monitoring-Using-Electric-Current-Analysis-of-the-Spindle-Motor-in-CNC-Machine.-
